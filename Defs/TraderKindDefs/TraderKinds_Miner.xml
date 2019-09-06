@@ -49,6 +49,20 @@
           <max>4000</max>
         </countRange>
       </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Uranium</thingDef>
+        <countRange>
+          <min>1000</min>
+          <max>4000</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Jade</thingDef>
+        <countRange>
+          <min>1000</min>
+          <max>4000</max>
+        </countRange>
+      </li>
     </stockGenerators>
   </TraderKindDef>
 
