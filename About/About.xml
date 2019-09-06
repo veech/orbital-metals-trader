@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Metals Trader</name>
+	<author>Big Veech</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>Adds Orbital Metals Trader to aide with late game steel problems. Thumbnail by Max McLaughlin.</description>
+	<url></url>
+</ModMetaData>
