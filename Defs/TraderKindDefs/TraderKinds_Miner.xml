@@ -31,7 +31,7 @@
       <li Class="StockGenerator_SingleDef">
         <thingDef>Steel</thingDef>
         <countRange>
-          <min>1000</min>
+          <min>2000</min>
           <max>10000</max>
         </countRange>
       </li>
