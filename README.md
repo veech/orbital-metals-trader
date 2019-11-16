@@ -13,7 +13,7 @@ These are the metals traded and the minimum and maximum amounts carried:
 |    Components   |  500  |  2000 |
 | Adv. Components |   10  |   20  |
 |      Steel      |  2000 | 10000 |
-|     Plasteel    | 10000 |  4000 |
+|     Plasteel    |  1000 |  4000 |
 |       Gold      |  1000 |  4000 |
 |     Uranium     |  1000 |  4000 |
 |       Gold      |  1000 |  4000 |
