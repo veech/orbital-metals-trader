@@ -1,11 +1,12 @@
-# orbital-metals-trader
-Orbital Metals Trader mod for Rimworld
+## Orbital Metals Trader
 
-[Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=1855069167)
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-green?style=flat)](https://steamcommunity.com/sharedfiles/filedetails/?id=1855069167)
 
-This mod adds an orbital trader that periodically visits your Rimworld colony to trade precious metals. You must have a Comms Console in order to trade with the Metals Trader.
+RimWorld mod that adds a new orbital trader for metals and components. You must have a Comms Console in order to trade with the metals trader.
 
-These are the metals traded and the minimum and maximum amounts carried:
+### Resources
+
+Metals and components traded and their min and max availabilities.
 
 |       ITEM      |  MIN  |  MAX  |
 |:---------------:|:-----:|:-----:|
@@ -17,3 +18,12 @@ These are the metals traded and the minimum and maximum amounts carried:
 |       Gold      |  1000 |  4000 |
 |     Uranium     |  1000 |  4000 |
 |       Gold      |  1000 |  4000 |
+
+### Credits
+
+- **Concept** - [Max](https://github.com/maxmclau)
+- **Design** - [maxmclau](https://github.com/maxmclau)
+- **Execution** - [Max McLaughlin](https://github.com/maxmclau)
+- **Testing** - [Maxmillion Mclaughlin](https://github.com/maxmclau)
+- **Beating RimWorld** - [Maxmillion James West McLaughlin](https://github.com/maxmclau)
+- <sub><sup>xml [aleangel1212](https://github.com/aleangel1212)</sup></sub>
