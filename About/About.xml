@@ -4,7 +4,9 @@
 	<author>Big Veech</author>
 	<supportedVersions>
 		<li>1.0</li>
+    <li>1.1</li>
 	</supportedVersions>
-	<description>Adds Orbital Metals Trader to aid with late game steel problems. Thumbnail by Max McLaughlin. Copy editing by Austin Tindle</description>
+  <packageId>BigVeech.MetalsTrader</packageId>
+	<description>Adds Orbital Metals Trader to aid with late game steel problems.</description>
 	<url></url>
 </ModMetaData>
