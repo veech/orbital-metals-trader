@@ -7,62 +7,55 @@
     <commonality>2</commonality>
     <orbital>true</orbital>
     <stockGenerators>
+
+      <!-- Metals -->
       <li Class="StockGenerator_SingleDef">
         <thingDef>Silver</thingDef>
-        <countRange>
-          <min>2000</min>
-          <max>6000</max>
-        </countRange>
+        <countRange>2000~6000</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>ComponentIndustrial</thingDef>
-        <countRange>
-          <min>500</min>
-          <max>2000</max>
-        </countRange>
+        <countRange>500~2000</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>ComponentSpacer</thingDef>
-        <countRange>
-          <min>10</min>
-          <max>20</max>
-        </countRange>
+        <countRange>10~20</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>Steel</thingDef>
-        <countRange>
-          <min>2000</min>
-          <max>10000</max>
-        </countRange>
+        <countRange>2000~10000</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>Plasteel</thingDef>
-        <countRange>
-          <min>1000</min>
-          <max>4000</max>
-        </countRange>
+        <countRange>1000~4000</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>Gold</thingDef>
-        <countRange>
-          <min>1000</min>
-          <max>4000</max>
-        </countRange>
+        <countRange>1000~4000</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>Uranium</thingDef>
-        <countRange>
-          <min>1000</min>
-          <max>4000</max>
-        </countRange>
+        <countRange>1000~4000</countRange>
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>Jade</thingDef>
-        <countRange>
-          <min>1000</min>
-          <max>4000</max>
-        </countRange>
+        <countRange>1000~4000</countRange>
       </li>
+
+      <!-- Apparel -->
+      <li Class="StockGenerator_Clothes">
+        <countRange>0~0</countRange>
+      </li>
+
+      <!-- Buildings -->
+      <li Class="StockGenerator_Category">
+        <categoryDef>BuildingsFurniture</categoryDef>
+        <countRange>0~0</countRange>
+      </li>
+
+      <!-- Buying -->
+      <li Class="StockGenerator_BuyTradeTag"><tag>Art</tag></li>
+      <li Class="StockGenerator_BuyTradeTag"><tag>Drugs</tag></li>
     </stockGenerators>
   </TraderKindDef>
 
