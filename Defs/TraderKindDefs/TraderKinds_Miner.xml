@@ -67,35 +67,11 @@
       </li>
 
       <!-- Buying -->
-      <li Class="StockGenerator_Clothes">
-        <countRange>
-          <min>0</min>
-          <max>0</max>
-        </countRange>
-      </li>
-
-      <li Class="StockGenerator_Art">
-        <countRange>
-          <min>0</min>
-          <max>0</max>
-        </countRange>
-      </li>
-
-      <li Class="StockGenerator_Category">
-        <categoryDef>BuildingsFurniture</categoryDef>
-        <countRange>
-          <min>0</min>
-          <max>0</max>
-        </countRange>
-      </li>
-
-      <li Class="StockGenerator_Category">
-        <categoryDef>Drugs</categoryDef>
-        <countRange>
-          <min>0</min>
-          <max>0</max>
-        </countRange>
-      </li>
+      <li Class="StockGenerator_BuyExpensiveSimple" />
+      <li Class="StockGenerator_BuyTradeTag"><tag>Clothing</tag></li>
+      <li Class="StockGenerator_BuyTradeTag"><tag>Art</tag></li>
+      <li Class="StockGenerator_BuyTradeTag"><tag>Drugs</tag></li>
+      <li Class="StockGenerator_BuyTradeTag"><tag>MusicalInstrument</tag></li>
 
     </stockGenerators>
   </TraderKindDef>
